@@ -26,10 +26,10 @@ latest_posts:
 
 ✨ Website under construction ✨
 
-Hi! I am a researcher primarily interested in responsible and ethical development and implementation of AI in healthcare.
+Hi! I am a researcher primarily interested in the responsible and ethical development and implementation of AI in healthcare.
 
 I completed my PhD in Biomedical Engineering with Medical Imaging Specialization at the University of Calgary in Alberta, Canada. My research in [MIPLAB](https://ucalgary.ca/labs/miplab), under the supervision of Nils Forkert, focused on developing new methods for investigating bias and fairness in AI for medical image analysis. Prior to that, I received my Bachelor of Applied Science in Chemical and Biological Engineering from the University of British Columbia in Vancouver, Canada.  
 
-I am an incoming postdoctoral research associate in Ben Glocker's group at Imperial College London, where I will be working on the intersection of bias, robustness, interpretability, and causality in AI for medical imaging. 
+I am an incoming postdoctoral research associate in Ben Glocker's group at Imperial College London, where I will be working at the intersection of bias, robustness, interpretability, and causality in AI for medical imaging. 
 
-My personal interests include [reading](https://app.thestorygraph.com/profile/estanley), listening to [music](https://music.apple.com/profile/emmaxstanley), going to concerts, strength training, and indoor field hockey! I am also an occasional biker/snowboarder/kickboxer. 📚🎶🏋️‍♀️🏑🚴🏻‍♀️🏂🥊
+My hobbies include [reading](https://app.thestorygraph.com/profile/estanley), listening to [music](https://music.apple.com/profile/emmaxstanley), going to concerts, strength training, and indoor field hockey! I am also an occasional biker/snowboarder/kickboxer. 📚🎶🏋️‍♀️🏑🚴🏻‍♀️🏂🥊
