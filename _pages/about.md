@@ -28,7 +28,7 @@ latest_posts:
 
 Hi! I am a researcher primarily interested in the responsible and ethical development and implementation of AI in healthcare.
 
-I completed my PhD in Biomedical Engineering with Medical Imaging Specialization at the University of Calgary in Alberta, Canada. My research in [MIPLAB](https://ucalgary.ca/labs/miplab), under the supervision of Nils Forkert, focused on developing new methods for investigating bias and fairness in AI for medical image analysis. Prior to that, I received my Bachelor of Applied Science in Chemical and Biological Engineering from the University of British Columbia in Vancouver, Canada.  
+I completed my PhD in Biomedical Engineering with Medical Imaging Specialization at the University of Calgary in Alberta, Canada. My research in [MIPLAB](https://ucalgary.ca/labs/miplab), under the supervision of Nils Forkert, focused on developing new methods for investigating bias and fairness in AI for medical image analysis. Prior to that, I received my Bachelor of Applied Science in Chemical and Biological Engineering from the University of British Columbia in Vancouver, Canada, where I did internships in bioprocess engineering. 
 
 I am an incoming postdoctoral research associate in Ben Glocker's group at Imperial College London, where I will be working at the intersection of bias, robustness, interpretability, and causality in AI for medical imaging. 
 

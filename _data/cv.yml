@@ -1,97 +1,137 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Emma Stanley
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy, Biomedical Engineering with Medical Imaging Specialization
+      institution: University of Calgary, Calgary, Canada
+      year: 2021-2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Killam Laureate
+        - GPA: 4.0
+        - Thesis: Beyond Equalized Odds: A Deeper Understanding of Bias and Fairness in Artificial Intelligence for Medical Image Analysis (Supervised by Dr. Nils Forkert)
+    - title: Bachelor of Applied Science, Chemical and Biological Engineering
+      institution: University of British Columbia, Vancouver, Canada
+      year: 2015-2020
       description:
-        - Description 1.
-        - Description 2.
+        - Chemical and Biological Engineering Department Valedictorian
+        - Cumulative average: 90.8%
+        - Dean's list: 2015-2020
+        - Thesis: Automated Labelling of Inkjet-Printed Cells for Training of Deep Learning Cell Encapsulation Classifier (Supervised by Dr. James Piret and Dr. Karen Cheung)
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+
+    - title: Graduate Student Researcher
+      institution: University of Calgary
+      year: May 2021 - Nov 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Led doctoral research on bias and fairness in deep learning models for medical image analysis. 
+        - Mentored Master's and undergraduate summer students. 
+        - Published four first-author journal papers, eight first-author full-length conference proceedings, one first-author book chapter, eight co-author journal papers, and six co-author full-length conference proceedings.
+
+    - title: Visiting Researcher
+      institution: Imperial College London
+      year: March 2025 - May 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Conducted a research project on identifying and quantifying the impact of annotation bias and label confidence in medical imaging datasets on deep learning models.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Mathematics Course Facilitator 
+      institution: Vantage College, University of British Columbia
+      year: July 2020 - Aug 2020
       description:
+        - Provided academic support and guidance for incoming first year students completing the 6-week course, Academic Essentials: Readiness for University Mathematics.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Bioengineering Co-op Student
+      institution: STEMCELL Technologies
+      year: Jan 2019 - Aug 2019
+      description:
+        - Designed, executed, and analyzed over 50 tissue procurement, cell isolation, and flow cytometric experiments to characterize and optimize the performance of a novel tissue dissociation device.
 
-- title: Open Source Projects
+    - title: Summer Research Student 
+      institution: Resverlogix Corp.
+      year: May 2018 - Aug 2018 
+      description: 
+        - Performed daily experimental polymerase chain reaction workflows and analyzed data to determine effects of therapeutic drugs in animal models.
+
+    - title: Bioprocess Engineering Co-op Student
+      institution: University of British Columbia
+      year: May 2017 - Dec 2017
+      description: 
+        - Applied design of experiments methodologies to independently develop standard protocols which quantified and improved performance of a novel biomedical system used for cell processing.
+
+
+- title: Volunteer Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Activity Committee Member
+      institution: Fairness of AI in Medical Imaging (FAIMI) Academic Initiative
+      year: June 2024 - Present
+      description: 
+        - Supported academic events including 2024 Fair Federated AI Summer School, 2024 MICCAI Workshop on Ethics and Fairness in Medical Imaging, and 2025 MICCAI Fairness of AI in Medical Imaging Workshop.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Calgary Chapter Technical Communication Lead
+      institution: Women in AI Canada
+      year: Jan 2022 - Jan 2025
+      description:
+        - Worked closely on a team with six other women to coordinate community building and professional development events (e.g., career fairs, pub nights, seminars) that promote the roles of women and other underrepresented groups in AI/ML.
 
-- title: Academic Interests
+    - title: Marketing Manager and Campus Lightbox Ambassador
+      institution: Project Aurora Mental Health Non-Profit
+      year: Aug 2020 - May 2021
+      description:
+        - Collaborated within the marketing team to strategize and implement plans for supporting youth mental health initiatives.
+
+    - title: Co-VP of Academic Affairs
+      institution: Chemical and Biological Engineering Undergraduate Council
+      year: Sep 2019 - Apr 2020
+      description:
+        - Planned and coordinated academic events including annual Industry Night, Co-op experience presentation, mental health workshop, and student feedback sessions.
+
+    - title: VP Events
+      institution: UBC Synthetic Biology Club
+      year: Sep 2017 - Apr 2019
+      description:
+        - Spearheaded planning and coordination of four events in line with the club’s mission of education about genetic engineering, and connecting students to the biotechnology field.
+
+    - title: Youth Outreach Volunteer and Community Building Committee Member
+      institution: UBC Women in Engineering
+      year: Sep 2017 - Apr 2019
+      description:
+        - Volunteered at outreach events and collaborated to plan events that promoted the role of women in applied science fields. 
+
+
+- title: Awards and Honours
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Awards and Scholarships
+        items:
+          - Izaak Walton Killam Memorial Doctoral Scholarship (2024-2026)
+          - Donald N. Byers Memorial Killam Scholar Prize for Best Statement of Program of Studies and Research (2024)
+          - Alberta Innovates Graduate Scholarship (2024)
+          - NSERC Canada Graduate Scholarships – Doctoral (2023-2026)
+          - NSERC Canada Graduate Scholarships – Master’s (2022-2023)
+          - Alberta Innovates Graduate Scholarship (2021-2023)
+          - Hotchkiss Brain Institute Graduate Recruitment Scholarship in Neuroscience (2022)
+          - Alberta Graduate Excellence Scholarship – Master’s (2021)
+          - Faculty of Graduate Studies Master’s Scholarship (2021)
+          - Biomedical Engineering Graduate Program Research Scholarship (2021)
+          - NSERC Experience Award (2018)
+          - NSERC Undergraduate Student Research Award (2017)
+          - UBC Trek Excellence Scholarship for Continuing Studies (2017-2019)
+    - title: Honours
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - MICCAI Outstanding Reviewer Honorable Mention (2025)
+        - Keynote Speaker, UCalgary Women in Data Science Conference (2023)
+        - [UBC Applied Science Rising Star (2020)](https://apsc.ubc.ca/spotlight/student/emma-stanley-basc-20-chemical-and-biological-engineering)
+        - UBC Chemical and Biological Engineering Valedictorian (2020)
+        - Governor General’s Bronze Academic Medal (2015)
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
