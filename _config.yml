@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: emma
+title: emma stanley # the website title (if blank, full name will be used instead)
+first_name: Emma
 middle_name: 
-last_name: stanley
+last_name: Stanley
 contact_note: 
 description: # the ">" symbol means to ignore newlines until "footer_text:"
 
@@ -189,6 +189,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news/announcement_*.md
+  - _pages/blog.md
+  - _posts/
+  - _projects/?_project.md
+  - assets/jupyter/blog.ipynb
+  
 keep_files:
   - CNAME
   - .nojekyll
@@ -261,8 +267,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Stanley]
+  first_name: [Emma, A. M.]
 
   style: apa
   locale: en
