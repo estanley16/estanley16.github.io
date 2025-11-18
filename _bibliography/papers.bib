@@ -1,6 +1,41 @@
 ---
 ---
 
+@inproceedings{wilms2024lightweight,
+  title={A lightweight 3D conditional diffusion model for self-explainable brain age prediction in adults and children},
+  author={Wilms, Matthias and Ahsan, Ahmad O and Ohara, Erik Y and Dagasso, Gabrielle and Macavoy, Elizabeth and Stanley, Emma A. M. and Vigneshwaran, Vibujithan and Forkert, Nils D},
+  booktitle={International Workshop on Machine Learning in Clinical Neuroimaging},
+  pages={57--67},
+  year={2024},
+  organization={Springer Nature Switzerland Cham},
+  abbr={MICCAI WS},
+}
+
+
+@article{romme2024analysis,
+  title={Analysis and visualization of the effect of multiple sclerosis on biological brain age},
+  author={Romme, Catharina J. A. and Stanley, Emma A. M. and Mouches, Pauline and Wilms, Matthias and Pike, G Bruce and Metz, Luanne M and Forkert, Nils D},
+  journal={Frontiers in Neurology},
+  volume={15},
+  pages={1423485},
+  year={2024},
+  publisher={Frontiers Media SA}, 
+  abbr={Journal},
+}
+
+
+@article{casillas2025interpretable,
+  title={Interpretable convolutional neural network for autism diagnosis support in children using structural magnetic resonance imaging datasets},
+  author={Casillas Martinez, Garazi and Winder, Anthony and Stanley, Emma A. M. and Souza, Raissa and Wilms, Matthias and Estes, Myka and MacEachern, Sarah J and Forkert, Nils D},
+  journal={Journal of Medical Imaging},
+  volume={12},
+  number={6},
+  pages={064501--064501},
+  year={2025},
+  publisher={Society of Photo-Optical Instrumentation Engineers},
+  abbr={Journal},
+}
+
 
 @article{stanley_fairness-related_2022,
 	title = {Fairness-related performance and explainability effects in deep learning models for brain image analysis},
@@ -217,11 +252,13 @@ Alberta Innovates, Natural Sciences and Engineering Research Council of Canada, 
 	abstract = {Although deep learning models can surpass human performance in many medical image analysis tasks, they remain vulnerable to algorithmic shortcuts, where spurious correlations in the data are exploited, which may lead to reduced trust in their predictions/classifications. This issue is especially concerning when models rely on protected attributes (e.g., sex, race, or site) as shortcuts. Such shortcut reliance not only impairs their ability to generalize to unseen datasets but also raises fairness concerns, ultimately undermining their purpose for computer-aided diagnosis. Previous techniques for analyzing protected attributes, such as supervised prediction layer information tests, only highlight the presence of protected attributes in the feature space but do not confirm their role in solving the primary task. Determining the impact of protected attributes as shortcuts is particularly challenging, as it requires knowing how a model would perform without those attributes — a counterfactual scenario typically unattainable in real-world data. As a workaround, researchers have addressed the absence of counterfactuals by generating synthetic datasets with and without protected attributes. In this study, we propose a novel approach to evaluate real-world datasets and determine the extent to which each protected attribute is used as a shortcut in a classification task. Therefore, we define and train a causal generative model to produce causally-grounded counterfactuals, removing protected attributes from activations and allowing us to measure their impact on model performance. Employing T1-weighted MRI data from 9 sites (835 subjects: 426 with Parkinson’s disease (PD) and 409 healthy), we demonstrate that counterfactually removing the 'site' attribute from the penultimate layer of a trained classification model reduced the AUROC for PD classification from 0.74 to 0.65, indicating a 9\% performance improvement achieved by using 'site' as a shortcut. In contrast, counterfactually removing the 'sex' attribute had minimal impact on performance, with only a slight change of 0.004, indicating that 'sex' was not utilized as a shortcut by the classification model. The proposed method offers a robust framework for assessing shortcut utilization in medical image classification, paving the way for improved bias detection and mitigation in medical imaging tasks. The code for this work is available on https://github.com/vibujithan/shortcut-analysis.},
 	language = {en},
 	urldate = {2025-06-16},
+	booktitle = {Medical Imaging with Deep Learning},
 	author = {Vigneshwaran, Vibujithan and Stanley, Emma A. M. and Souza, Raissa and Ohara, Erik and Wilms, Matthias and Forkert, Nils},
 	month = jan,
 	year = {2025},
   abbr={MIDL},
 }
+
 
 @article{souza_harmonytm_2024,
 	title = {{HarmonyTM}: multi-center data harmonization applied to distributed learning for {Parkinson}’s disease classification},

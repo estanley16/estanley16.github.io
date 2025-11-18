@@ -13,8 +13,8 @@
       year: 2021-2025
       description:
         - Killam Laureate
-        - GPA: 4.0
-        - Thesis: Beyond Equalized Odds: A Deeper Understanding of Bias and Fairness in Artificial Intelligence for Medical Image Analysis (Supervised by Dr. Nils Forkert)
+        - GPA: 4.0"
+        - Thesis: "Beyond Equalized Odds: A Deeper Understanding of Bias and Fairness in Artificial Intelligence for Medical Image Analysis (Supervised by Dr. Nils Forkert)
     - title: Bachelor of Applied Science, Chemical and Biological Engineering
       institution: University of British Columbia, Vancouver, Canada
       year: 2015-2020
@@ -47,7 +47,7 @@
       institution: Vantage College, University of British Columbia
       year: July 2020 - Aug 2020
       description:
-        - Provided academic support and guidance for incoming first year students completing the 6-week course, Academic Essentials: Readiness for University Mathematics.
+        - Provided academic support and guidance for incoming first year students completing the 6-week course, Academic Essentials Readiness for University Mathematics.
 
     - title: Bioengineering Co-op Student
       institution: STEMCELL Technologies
@@ -112,25 +112,25 @@
   type: nested_list
   contents:
     - title: Awards and Scholarships
-        items:
-          - Izaak Walton Killam Memorial Doctoral Scholarship (2024-2026)
-          - Donald N. Byers Memorial Killam Scholar Prize for Best Statement of Program of Studies and Research (2024)
-          - Alberta Innovates Graduate Scholarship (2024)
-          - NSERC Canada Graduate Scholarships – Doctoral (2023-2026)
-          - NSERC Canada Graduate Scholarships – Master’s (2022-2023)
-          - Alberta Innovates Graduate Scholarship (2021-2023)
-          - Hotchkiss Brain Institute Graduate Recruitment Scholarship in Neuroscience (2022)
-          - Alberta Graduate Excellence Scholarship – Master’s (2021)
-          - Faculty of Graduate Studies Master’s Scholarship (2021)
-          - Biomedical Engineering Graduate Program Research Scholarship (2021)
-          - NSERC Experience Award (2018)
-          - NSERC Undergraduate Student Research Award (2017)
-          - UBC Trek Excellence Scholarship for Continuing Studies (2017-2019)
+      items:
+        - Izaak Walton Killam Memorial Doctoral Scholarship (2024-2026)
+        - Donald N. Byers Memorial Killam Scholar Prize for Best Statement of Program of Studies and Research (2024)
+        - Alberta Innovates Graduate Scholarship (2024)
+        - NSERC Canada Graduate Scholarships – Doctoral (2023-2026)
+        - NSERC Canada Graduate Scholarships – Master’s (2022-2023)
+        - Alberta Innovates Graduate Scholarship (2021-2023)
+        - Hotchkiss Brain Institute Graduate Recruitment Scholarship in Neuroscience (2022)
+        - Alberta Graduate Excellence Scholarship – Master’s (2021)
+        - Faculty of Graduate Studies Master’s Scholarship (2021)
+        - Biomedical Engineering Graduate Program Research Scholarship (2021)
+        - NSERC Experience Award (2018)
+        - NSERC Undergraduate Student Research Award (2017)
+        - UBC Trek Excellence Scholarship for Continuing Studies (2017-2019)
     - title: Honours
       items:
         - MICCAI Outstanding Reviewer Honorable Mention (2025)
         - Keynote Speaker, UCalgary Women in Data Science Conference (2023)
-        - [UBC Applied Science Rising Star (2020)](https://apsc.ubc.ca/spotlight/student/emma-stanley-basc-20-chemical-and-biological-engineering)
+        - UBC Applied Science Rising Star (2020)
         - UBC Chemical and Biological Engineering Valedictorian (2020)
         - Governor General’s Bronze Academic Medal (2015)
 
