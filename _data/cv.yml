@@ -28,7 +28,6 @@
 - title: Experience
   type: time_table
   contents:
-
     - title: Graduate Student Researcher
       institution: University of Calgary
       year: May 2021 - Nov 2025
@@ -36,25 +35,21 @@
         - Led doctoral research on bias and fairness in deep learning models for medical image analysis. 
         - Mentored Master's and undergraduate summer students. 
         - Published four first-author journal papers, eight first-author full-length conference proceedings, one first-author book chapter, eight co-author journal papers, and six co-author full-length conference proceedings.
-
     - title: Visiting Researcher
       institution: Imperial College London
       year: March 2025 - May 2025
       description:
         - Conducted a research project on identifying and quantifying the impact of annotation bias and label confidence in medical imaging datasets on deep learning models.
-
     - title: Mathematics Course Facilitator 
       institution: Vantage College, University of British Columbia
       year: July 2020 - Aug 2020
       description:
         - Provided academic support and guidance for incoming first year students completing the 6-week course, Academic Essentials Readiness for University Mathematics.
-
     - title: Bioengineering Co-op Student
       institution: STEMCELL Technologies
       year: Jan 2019 - Aug 2019
       description:
         - Designed, executed, and analyzed over 50 tissue procurement, cell isolation, and flow cytometric experiments to characterize and optimize the performance of a novel tissue dissociation device.
-
     - title: Summer Research Student 
       institution: Resverlogix Corp.
       year: May 2018 - Aug 2018 
@@ -76,31 +71,26 @@
       year: June 2024 - Present
       description: 
         - Supported academic events including 2024 Fair Federated AI Summer School, 2024 MICCAI Workshop on Ethics and Fairness in Medical Imaging, and 2025 MICCAI Fairness of AI in Medical Imaging Workshop.
-
     - title: Calgary Chapter Technical Communication Lead
       institution: Women in AI Canada
       year: Jan 2022 - Jan 2025
       description:
         - Worked closely on a team with six other women to coordinate community building and professional development events (e.g., career fairs, pub nights, seminars) that promote the roles of women and other underrepresented groups in AI/ML.
-
     - title: Marketing Manager and Campus Lightbox Ambassador
       institution: Project Aurora Mental Health Non-Profit
       year: Aug 2020 - May 2021
       description:
         - Collaborated within the marketing team to strategize and implement plans for supporting youth mental health initiatives.
-
     - title: Co-VP of Academic Affairs
       institution: Chemical and Biological Engineering Undergraduate Council
       year: Sep 2019 - Apr 2020
       description:
         - Planned and coordinated academic events including annual Industry Night, Co-op experience presentation, mental health workshop, and student feedback sessions.
-
     - title: VP Events
       institution: UBC Synthetic Biology Club
       year: Sep 2017 - Apr 2019
       description:
         - Spearheaded planning and coordination of four events in line with the club’s mission of education about genetic engineering, and connecting students to the biotechnology field.
-
     - title: Youth Outreach Volunteer and Community Building Committee Member
       institution: UBC Women in Engineering
       year: Sep 2017 - Apr 2019
