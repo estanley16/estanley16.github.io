@@ -19,6 +19,7 @@
 	journal={Nature Communications},
 	year={2026},
 	number={788},
+	abstract={Artificial intelligence (AI) has vast potential for improving healthcare delivery, but concerns regarding biases in these systems have raised important questions regarding fairness when deployed clinically. Most prior studies on fairness in clinical AI focus solely on performance disparities between subpopulations, which often fall short of connecting the technical outputs of AI systems with sociotechnical outcomes. In this work, we present a simulation-based approach to explore how statistical definitions of algorithmic fairness translate to fairness in long-term outcomes, using AI-assisted breast cancer screening as a case example. We evaluate four fairness criteria and their impact on mortality rates and socioeconomic disparities, while also considering how clinical decision makers’ reliance on AI and patients’ access to healthcare affect outcomes. Our results highlight how algorithmic fairness does not directly translate into fair and equitable outcomes, underscoring the importance of integrating sociotechnical perspectives to gain a holistic understanding of fairness in healthcare AI.},
 	volume={17},
 	publisher={Nature Publishing Group UK London},
 	abbr={Journal},
@@ -60,6 +61,24 @@
   abbr={Journal},
 }
 
+@inproceedings{stanley_disproportionate_2022,
+	address = {Cham},
+	series = {Lecture {Notes} in {Computer} {Science}},
+	title = {Disproportionate {Subgroup} {Impacts} and {Other} {Challenges} of {Fairness} in {Artificial} {Intelligence} for {Medical} {Image} {Analysis}},
+	isbn = {978-3-031-23223-7},
+	doi = {10.1007/978-3-031-23223-7_2},
+	abstract = {Fairness in artificial intelligence (AI) for medical image analysis is a key factor for preventing new or exacerbated healthcare disparities as the use of automated decision-making tools in medicine increases. However, bias mitigation strategies to achieve group fairness have appreciable shortcomings, which may pose ethical limitations in clinical settings. In this work, we study a well-defined case example of a deep learning-based medical image analysis model exhibiting unfairness between racial subgroups. Specifically, with the task of sex classification using tabulated data from 6,276 T1-weighted brain magnetic resonance imaging (MRI) scans of 9–10 year old adolescents, we investigate how adversarial debiasing for equalized odds between White and Black subgroups affects performance of other structured and intersectional subgroups. Although the debiasing process was successful in reducing classification performance disparities between White and Black subgroups, accuracies for the highest performing subgroups were substantially degraded and disproportionate impacts on performance were seen when considering intersections of sex, race, and socioeconomic status. These results highlight one of the several challenges when attempting to define and achieve algorithmic fairness, particularly in medical imaging applications.},
+	language = {en},
+	booktitle = {Ethical and {Philosophical} {Issues} in {Medical} {Imaging}, {Multimodal} {Learning} and {Fusion} {Across} {Scales} for {Clinical} {Decision} {Support}, and {Topological} {Data} {Analysis} for {Biomedical} {Imaging}},
+	publisher = {Springer Nature Switzerland},
+	author = {Stanley, Emma A. M. and Wilms, Matthias and Forkert, Nils D.},
+	editor = {Baxter, John S. H. and Rekik, Islem and Eagleson, Roy and Zhou, Luping and Syeda-Mahmood, Tanveer and Wang, Hongzhi and Hajij, Mustafa},
+	year = {2022},
+	keywords = {Medical image analysis, Algorithmic fairness, Bias mitigation, Computer-aided diagnosis, Adversarial debiasing},
+	pages = {14--25},
+	abbr={MICCAI WS},
+  selected={true},
+}
 
 @article{stanley_fairness-related_2022,
 	title = {Fairness-related performance and explainability effects in deep learning models for brain image analysis},
@@ -80,24 +99,7 @@
   selected={true},
 }
 
-@inproceedings{stanley_disproportionate_2022,
-	address = {Cham},
-	series = {Lecture {Notes} in {Computer} {Science}},
-	title = {Disproportionate {Subgroup} {Impacts} and {Other} {Challenges} of {Fairness} in {Artificial} {Intelligence} for {Medical} {Image} {Analysis}},
-	isbn = {978-3-031-23223-7},
-	doi = {10.1007/978-3-031-23223-7_2},
-	abstract = {Fairness in artificial intelligence (AI) for medical image analysis is a key factor for preventing new or exacerbated healthcare disparities as the use of automated decision-making tools in medicine increases. However, bias mitigation strategies to achieve group fairness have appreciable shortcomings, which may pose ethical limitations in clinical settings. In this work, we study a well-defined case example of a deep learning-based medical image analysis model exhibiting unfairness between racial subgroups. Specifically, with the task of sex classification using tabulated data from 6,276 T1-weighted brain magnetic resonance imaging (MRI) scans of 9–10 year old adolescents, we investigate how adversarial debiasing for equalized odds between White and Black subgroups affects performance of other structured and intersectional subgroups. Although the debiasing process was successful in reducing classification performance disparities between White and Black subgroups, accuracies for the highest performing subgroups were substantially degraded and disproportionate impacts on performance were seen when considering intersections of sex, race, and socioeconomic status. These results highlight one of the several challenges when attempting to define and achieve algorithmic fairness, particularly in medical imaging applications.},
-	language = {en},
-	booktitle = {Ethical and {Philosophical} {Issues} in {Medical} {Imaging}, {Multimodal} {Learning} and {Fusion} {Across} {Scales} for {Clinical} {Decision} {Support}, and {Topological} {Data} {Analysis} for {Biomedical} {Imaging}},
-	publisher = {Springer Nature Switzerland},
-	author = {Stanley, Emma A. M. and Wilms, Matthias and Forkert, Nils D.},
-	editor = {Baxter, John S. H. and Rekik, Islem and Eagleson, Roy and Zhou, Luping and Syeda-Mahmood, Tanveer and Wang, Hongzhi and Hajij, Mustafa},
-	year = {2022},
-	keywords = {Medical image analysis, Algorithmic fairness, Bias mitigation, Computer-aided diagnosis, Adversarial debiasing},
-	pages = {14--25},
-	abbr={MICCAI WS},
-  selected={true},
-}
+
 
 @incollection{stanley_neuroethics_2023,
 	title = {Neuroethics considerations for precision medicine and machine learning in neurodevelopmental disorders},

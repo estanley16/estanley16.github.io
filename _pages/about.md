@@ -32,4 +32,4 @@ I am currently a postdoctoral research associate in Ben Glocker's [group](https:
 
 I completed my PhD in Biomedical Engineering with Medical Imaging Specialization at the University of Calgary in Alberta, Canada. My research in [MIPLAB](https://ucalgary.ca/labs/miplab), under the supervision of Nils Forkert, focused on developing new methods for investigating bias and fairness in AI for medical image analysis. Prior to that, I received my Bachelor of Applied Science in Chemical and Biological Engineering from the University of British Columbia in Vancouver, Canada, where I did internships in bioprocess engineering.
 
-My hobbies include [reading](https://app.thestorygraph.com/profile/estanley), listening to music, going to concerts, strength training, and indoor field hockey! I also ennjoy biking/snowboarding/kickboxing. 📚🎶🏋️‍♀️🏑🚴🏻‍♀️🏂🥊
+My hobbies include [reading](https://app.thestorygraph.com/profile/estanley), listening to music, going to concerts, strength training, and indoor field hockey! I also enjoy biking, snowboarding, and kickboxing. 📚🎶🏋️‍♀️🏑🚴🏻‍♀️🏂🥊
